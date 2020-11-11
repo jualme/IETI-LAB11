@@ -1,17 +1,16 @@
 # IETI-LAB11
 
-##Run your app
-
-![](img/baseApp.PNG)
+## Run your app
+![](img/baseApp.jpg)
 
 ## Build a simple user interface
 
-![](img/textbox.PNG)
+![](img/textbox.jpg)
 
 ## Start another activity
 
-![](img/test1.PNG)
-![](img/test2.PNG)
+![](img/test1.jpg)
+![](img/test2.jpg)
 
 
 ## Honor Code
