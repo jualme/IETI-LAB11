@@ -2,6 +2,17 @@
 
 ##Run your app
 
-##Build a simple user interface
+![](img/baseApp.PNG)
 
-##Start another activity
+## Build a simple user interface
+
+![](img/textbox.PNG)
+
+## Start another activity
+
+![](img/test1.PNG)
+![](img/test2.PNG)
+
+
+## Honor Code
+[Honor Code](https://github.com/jualme/-IETI-LAB5/blob/master/HonorCode.txt)
